@@ -4,6 +4,7 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+	
 }
 
 p {
@@ -16,12 +17,19 @@ color: red
 
 body {
  color: blue 
+	 
 }
 
-.phoneaddress
-color: #B22222
+.phoneaddress {
+color: cyan
+	
+}
 
-.pro
+.pro {
 color: #FF00FF
+	
+}
 
-.achieve
+.achieve {
+	
+}

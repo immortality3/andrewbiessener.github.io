@@ -39,5 +39,5 @@ color: #FF00FF
 }
 
 .top {
-	display: inline;
+	display: flex; 
 }

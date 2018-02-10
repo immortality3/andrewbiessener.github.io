@@ -16,7 +16,7 @@ html, body {
 }
 
 p {
-color: red
+
 	
 }
 .hero {
@@ -24,12 +24,12 @@ color: red
 }
 
 body {
- color: blue 
+
 	 
 }
 
 .phoneaddress {
-color: cyan
+
 	
 }
 
@@ -41,5 +41,5 @@ color: #FF00FF
 
 ul#menu li {
     display:inline;
-	margin: 40px;
+	margin: 80px;
 }

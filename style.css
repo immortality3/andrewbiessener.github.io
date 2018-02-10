@@ -4,3 +4,7 @@ color: red
 .hero {
   background-image: url("https://s.hswstatic.com/gif/water-life-crop.jpg");
 }
+
+body {
+ color: blue 
+}

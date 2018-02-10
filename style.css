@@ -1,10 +1,17 @@
+html { 
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTots67E2wtS1fL9YaMoFVZkE5L41is-qaYURemuegXEUnZDIklSQ) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 p {
 color: red
 	
 }
 .hero {
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTots67E2wtS1fL9YaMoFVZkE5L41is-qaYURemuegXEUnZDIklSQ");
- 
+  
 }
 
 body {

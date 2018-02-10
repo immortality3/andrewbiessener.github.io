@@ -38,8 +38,7 @@ color: #FF00FF
 	
 }
 
-.top {
-	display: flex; 
-	flex-wrap: wrap;
-  justify-content: center;
+
+ul#menu li {
+    display:inline;
 }

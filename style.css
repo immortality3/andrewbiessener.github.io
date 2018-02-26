@@ -4,6 +4,7 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+	text-align: center;
 	
 }
 
@@ -13,10 +14,11 @@ html, body {
   flex-direction: column;
   font-weight: 300;
   line-height: 1.5;
+	text-align: center;
 }
 
 p {
-
+text-align: center;
 	
 }
 .hero {
@@ -25,17 +27,17 @@ p {
 
 body {
 
-	 
+	 text-align: center;
 }
 
 .phoneaddress {
 
-	
+	text-align: center;
 }
 
 .pro {
 color: #FF00FF
-	
+	text-align: center;
 }
 
 

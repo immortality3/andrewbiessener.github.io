@@ -1,45 +1,46 @@
-html { 
-  background: url(http://students.iitk.ac.in/eclub/assets/images/background.png) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-	
+element.style {
 }
-
-html, body {
-  min-height: 100%;
-  display: flex;
-  flex-direction: column;
-  font-weight: 300;
-  line-height: 1.5;
+user agent stylesheet
+.line-content {
+    padding: 0px 5px !important;
 }
-
-p {
-
-	
+user agent stylesheet
+td {
+    vertical-align: baseline;
+    padding: 0px !important;
 }
-.hero {
-  
+user agent stylesheet
+td, th {
+    display: table-cell;
+    vertical-align: inherit;
 }
-
-body {
-
-	 
+Inherited from table
+user agent stylesheet
+table {
+    width: 100%;
+    word-break: break-word;
+    font-size: initial;
+    font-family: monospace;
+    tab-size: 4;
+    white-space: pre-wrap;
+    border-spacing: 0px;
+    margin: 0px;
 }
-
-.phoneaddress {
-
-	
+user agent stylesheet
+table {
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    font-variant: normal;
 }
-
-.pro {
-color: #FF00FF
-	
-}
-
-
-ul#menu li {
-    display:inline;
-	margin: 80px;
+user agent stylesheet
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
 }
